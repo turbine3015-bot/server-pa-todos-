@@ -1,0 +1,48 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.189.23.166
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1755752931262
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1755755288721
+  login: 1755745960616
+money: '0'
+last-account-name: SamiHatesTurbine
+logoutlocation:
+  world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+  world-name: world
+  x: -24.413540568449147
+  y: 72.0
+  z: -14.843182633993957
+  yaw: 1.640869140625
+  pitch: 25.650066375732422
+nickname: §c§lSamir
+lastlocation:
+  world: 6f7638f2-c5c8-4fa9-9317-b9041ff99597
+  world-name: world_nether
+  x: -342.69999998807907
+  y: 64.0
+  z: 224.69999998807907
+  yaw: -163.913818359375
+  pitch: 4.3499650955200195
+homes:
+  home:
+    world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+    world-name: world
+    x: -62.78976433525673
+    y: 73.0
+    z: -17.312144319799156
+    yaw: -77.2431640625
+    pitch: 24.300037384033203

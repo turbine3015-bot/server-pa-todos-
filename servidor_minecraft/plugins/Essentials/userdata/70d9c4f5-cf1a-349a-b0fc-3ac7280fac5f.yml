@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.234.239.96
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1755743054174
+  login: 1755741965366
+money: '0'
+last-account-name: badrancio
+logoutlocation:
+  world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+  world-name: world
+  x: 7.300000011920929
+  y: 68.0
+  z: 16.986300579270655
+  yaw: 134.400146484375
+  pitch: 32.850006103515625
+nickname: §c§lDerp
+lastlocation:
+  world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+  world-name: world
+  x: -19.498170085398876
+  y: 69.0
+  z: 94.68314390076887
+  yaw: 9.89971923828125
+  pitch: 44.8499755859375

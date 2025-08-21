@@ -11,20 +11,38 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1755752587412
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1755741550553
-  login: 1755741441238
+  logout: 1755755290934
+  login: 1755741752103
 money: '0'
 last-account-name: Zatanna917
 logoutlocation:
   world: 3d3d7510-3aa1-4b52-936b-654cf20de811
   world-name: world
-  x: -0.4233721933332378
+  x: -26.213945569437023
+  y: 73.0
+  z: -12.822990173340386
+  yaw: -125.09619140625
+  pitch: 37.0499267578125
+nickname: §d§lZaty
+lastlocation:
+  world: 6f7638f2-c5c8-4fa9-9317-b9041ff99597
+  world-name: world_nether
+  x: -317.107454838475
   y: 65.0
-  z: -8.838762076086917
-  yaw: -53.550106048583984
-  pitch: 34.049983978271484
+  z: 150.07141124307083
+  yaw: 59.719482421875
+  pitch: 41.400108337402344
+homes:
+  casa:
+    world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+    world-name: world
+    x: -55.31866701662009
+    y: 73.0
+    z: -14.867159889968743
+    yaw: 142.67529296875
+    pitch: 19.049972534179688

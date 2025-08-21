@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.56.226.131
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1755742812822
+  login: 1755741980069
+money: '0'
+last-account-name: Riit0
+logoutlocation:
+  world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+  world-name: world
+  x: -57.461874486402024
+  y: 73.0
+  z: 8.825807680695549
+  yaw: 136.94992065429688
+  pitch: 26.699960708618164
+nickname: §c§lRito

@@ -1,0 +1,48 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.98.204.5
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1755748291299
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1755755283719
+  login: 1755742151921
+money: '0'
+last-account-name: RageMadsonVII
+logoutlocation:
+  world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+  world-name: world
+  x: -47.222395868038525
+  y: 73.0
+  z: -15.266230504618356
+  yaw: -149.69866943359375
+  pitch: 20.699993133544922
+nickname: §c§lTroy
+lastlocation:
+  world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+  world-name: world
+  x: -206.7906141295196
+  y: -29.0
+  z: 72.13095490949776
+  yaw: -122.03878021240234
+  pitch: -6.750006675720215
+homes:
+  home:
+    world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+    world-name: world
+    x: -54.97523447388559
+    y: 73.0
+    z: -9.110710224212701
+    yaw: -171.760498046875
+    pitch: 22.350143432617188
