@@ -783,7 +783,7 @@ world-home-permissions: false
 # Remember, they must have BOTH permission nodes in order to be able to set multiple homes.
 # For more information, visit https://wiki.ess3.net/wiki/Multihome
 sethome-multiple:
-  default: 3
+  default: 20
   vip: 5
   staff: 10
 

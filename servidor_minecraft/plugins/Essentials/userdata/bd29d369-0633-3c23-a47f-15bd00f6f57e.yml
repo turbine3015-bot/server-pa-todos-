@@ -11,32 +11,32 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1755806558396
+  lastteleport: 1755816515880
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1755807357598
-  login: 1755806952889
+  logout: 1755817057063
+  login: 1755810934289
 money: '0'
 last-account-name: SamiHatesTurbine
 logoutlocation:
-  world: 3d3d7510-3aa1-4b52-936b-654cf20de811
-  world-name: world
-  x: -934.6939214352242
-  y: 63.0
-  z: 705.5132633368053
-  yaw: 7.054281711578369
-  pitch: -4.800022602081299
+  world: 6f7638f2-c5c8-4fa9-9317-b9041ff99597
+  world-name: world_nether
+  x: -97.5741020545932
+  y: 44.0
+  z: 2.5397348817665186
+  yaw: -91.1942138671875
+  pitch: 72.45018768310547
 nickname: §c§lSamir
 lastlocation:
   world: 3d3d7510-3aa1-4b52-936b-654cf20de811
   world-name: world
-  x: -80.8221858405141
-  y: 73.0
-  z: 24.0534204795886
-  yaw: -40.36580276489258
-  pitch: 32.85000991821289
+  x: -6869.297106130637
+  y: 72.0
+  z: 1846.540081303216
+  yaw: 159.89892578125
+  pitch: 13.9500093460083
 homes:
   home:
     world: 3d3d7510-3aa1-4b52-936b-654cf20de811
@@ -46,3 +46,11 @@ homes:
     z: -17.312144319799156
     yaw: -77.2431640625
     pitch: 24.300037384033203
+  aldea:
+    world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+    world-name: world
+    x: -6837.624837188195
+    y: 70.0
+    z: 1864.5022006654544
+    yaw: -91.054443359375
+    pitch: 37.4999885559082

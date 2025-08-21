@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1755807357537
-  login: 1755806110101
+  logout: 1755818381706
+  login: 1755811483755
 money: '0'
 last-account-name: RageMadsonVII
 logoutlocation:
   world: 3d3d7510-3aa1-4b52-936b-654cf20de811
   world-name: world
-  x: -25.480626504317453
-  y: 75.00133597911214
-  z: -14.547149847036431
-  yaw: -48.16128921508789
-  pitch: 30.90000343322754
+  x: -56.855788780649924
+  y: 73.0
+  z: -69.77736527945991
+  yaw: 151.64910888671875
+  pitch: 15.750036239624023
 nickname: §c§lTroy
 lastlocation:
   world: 3d3d7510-3aa1-4b52-936b-654cf20de811
@@ -38,11 +38,11 @@ lastlocation:
   yaw: -122.03878021240234
   pitch: -6.750006675720215
 homes:
-  home:
+  casa:
     world: 3d3d7510-3aa1-4b52-936b-654cf20de811
     world-name: world
-    x: -54.97523447388559
-    y: 73.0
-    z: -9.110710224212701
-    yaw: -171.760498046875
-    pitch: 22.350143432617188
+    x: -58.8476876418648
+    y: 75.0
+    z: -55.69999998807907
+    yaw: 169.04718017578125
+    pitch: 27.449981689453125
