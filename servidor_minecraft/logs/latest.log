@@ -1,0 +1,310 @@
+[01:56:16] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[01:56:16] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[01:56:16] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[01:56:16] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[01:56:16] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/HealthBar-Reloaded.jar'...
+[01:56:16] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/CrisTreeCapitator.jar'...
+[01:56:16] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/TerraformGenerator-21.0.1.jar'...
+[01:56:17] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/HealthBar-Reloaded.jar' in 574ms.
+[01:56:17] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/voicechat-bukkit-2.5.36.jar'...
+[01:56:17] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/CrisTreeCapitator.jar' in 612ms.
+[01:56:18] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/voicechat-bukkit-2.5.36.jar' in 782ms.
+[01:56:18] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/TerraformGenerator-21.0.1.jar' in 1702ms.
+[01:56:19] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 2820ms.
+[01:56:19] [ServerMain/INFO]: [PluginInitializerManager] Initialized 10 plugins
+[01:56:19] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - Minepacks (2.4.32.4-T20250718161642)
+[01:56:19] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (9):
+ - CrisTreeCapitator (6.4.4), Essentials (2.21.2), Geyser-Spigot (2.8.3-SNAPSHOT), GraveStonesPlus (1.8.1), HealthBar-Reloaded (2.0.4.2), LuckPerms (5.5.10), SkinsRestorer (15.7.9), TerraformGenerator (21.0.1), voicechat (2.5.36)
+[01:56:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:56:25] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[01:56:25] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[01:56:26] [ServerMain/INFO]: No existing world data, creating new world
+[01:56:27] [ServerMain/INFO]: Loaded 1407 recipes
+[01:56:27] [ServerMain/INFO]: Loaded 1520 advancements
+[01:56:27] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[01:56:27] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 481.7ms
+[01:56:28] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[01:56:28] [Server thread/INFO]: Loading properties
+[01:56:28] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[01:56:28] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[01:56:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:56:28] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:56:28] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[01:56:28] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[01:56:28] [Server thread/INFO]: Default game type: SURVIVAL
+[01:56:28] [Server thread/INFO]: Generating keypair
+[01:56:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:56:28] [Server thread/INFO]: Using epoll channel type
+[01:56:28] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[01:56:28] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[01:56:28] [Server thread/INFO]: [Minepacks] PCGF-PluginLib not installed. Switching to standalone mode!
+[01:56:29] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loading 1 libraries... please wait
+[01:56:29] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.pom
+[01:56:29] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/ow2/asm/asm/7.3.1/asm-7.3.1.pom
+[01:56:29] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/ow2/ow2/1.5/ow2-1.5.pom
+[01:56:29] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/ow2/asm/asm-commons/7.3.1/asm-commons-7.3.1.pom
+[01:56:29] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/ow2/asm/asm-tree/7.3.1/asm-tree-7.3.1.pom
+[01:56:29] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/ow2/asm/asm-analysis/7.3.1/asm-analysis-7.3.1.pom
+[01:56:29] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/ow2/asm/asm-util/7.3.1/asm-util-7.3.1.pom
+[01:56:30] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar
+[01:56:30] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-1/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/ow2/asm/asm-commons/7.3.1/asm-commons-7.3.1.jar
+[01:56:30] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-0/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/ow2/asm/asm/7.3.1/asm-7.3.1.jar
+[01:56:30] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-2/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/ow2/asm/asm-analysis/7.3.1/asm-analysis-7.3.1.jar
+[01:56:30] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-4/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/ow2/asm/asm-util/7.3.1/asm-util-7.3.1.jar
+[01:56:30] [BasicRepositoryConnector-maven-central.storage-download.googleapis.com-0-3/INFO]: [SpigotLibraryLoader] Downloading https://maven-central.storage-download.googleapis.com/maven2/org/ow2/asm/asm-tree/7.3.1/asm-tree-7.3.1.jar
+[01:56:30] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loaded library /workspaces/server-pa-todos-/servidor_minecraft/libraries/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar
+[01:56:30] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loaded library /workspaces/server-pa-todos-/servidor_minecraft/libraries/org/ow2/asm/asm/7.3.1/asm-7.3.1.jar
+[01:56:30] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loaded library /workspaces/server-pa-todos-/servidor_minecraft/libraries/org/ow2/asm/asm-commons/7.3.1/asm-commons-7.3.1.jar
+[01:56:30] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loaded library /workspaces/server-pa-todos-/servidor_minecraft/libraries/org/ow2/asm/asm-analysis/7.3.1/asm-analysis-7.3.1.jar
+[01:56:30] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loaded library /workspaces/server-pa-todos-/servidor_minecraft/libraries/org/ow2/asm/asm-tree/7.3.1/asm-tree-7.3.1.jar
+[01:56:30] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loaded library /workspaces/server-pa-todos-/servidor_minecraft/libraries/org/ow2/asm/asm-util/7.3.1/asm-util-7.3.1.jar
+[01:56:30] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.10
+[01:56:33] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[01:56:33] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.36
+[01:56:33] [Server thread/INFO]: [TerraformGenerator] Loading server plugin TerraformGenerator v21.0.1
+[01:56:33] [Server thread/INFO]: [Minepacks] Loading server plugin Minepacks v2.4.32.4-T20250718161642
+[01:56:33] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.2
+[01:56:33] [Server thread/INFO]: [CrisTreeCapitator] Loading server plugin CrisTreeCapitator v6.4.4
+[01:56:33] [Server thread/INFO]: [HealthBar-Reloaded] Loading server plugin HealthBar-Reloaded v2.0.4.2
+[01:56:33] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.3-SNAPSHOT
+[01:56:34] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[01:56:34] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[01:56:34] [Server thread/INFO]: [GraveStonesPlus] Loading server plugin GraveStonesPlus v1.8.1
+[01:56:34] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.9
+[01:56:34] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:56:34] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.10
+[01:56:35] [Server thread/INFO]:         __    
+[01:56:35] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.10
+[01:56:35] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[01:56:35] [Server thread/INFO]: 
+[01:56:35] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[01:56:35] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[01:56:35] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[01:56:36] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1341ms)
+[01:56:36] [Server thread/INFO]: [TerraformGenerator] Enabling TerraformGenerator v21.0.1
+[01:56:36] [Server thread/INFO]: [TerraformGenerator] Custom Logger Initialized
+[01:56:36] [Server thread/INFO]: [TerraformGenerator] bStats Metrics enabled.
+[01:56:36] [Server thread/INFO]: [TerraformGenerator] Detected version: 1.21.8, number: 21.8
+[01:56:36] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.9
+[01:56:37] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.8.
+[01:56:38] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[01:56:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:56:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:56:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:56:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:56:38] [Server thread/INFO]: Preparing level "world"
+[01:56:38] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:56:38] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[01:56:38] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[01:56:38] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |------------------|
+[01:56:38] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[01:56:38] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     +==================+
+[01:56:38] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:56:38] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Version: 15.7.9
+[01:56:38] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     Commit: eb4ae0c
+[01:56:38] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer]     This is the latest version!
+[01:56:38] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:56:38] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[01:56:38] [Folia Async Scheduler Thread #2/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[01:56:38] [Server thread/INFO]: [TerraformGenerator] Detected world: world, commencing injection... 
+[01:56:38] [Server thread/INFO]: [TerraformGenerator] Injection success! Proceeding with generation.
+[01:56:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:56:41] [Server thread/INFO]: Preparing spawn area: 0%
+[01:56:41] [Paper Common Worker #0/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkUpgradeGenericStatusTask] Future status not complete after scheduling: minecraft:biomes, generate: true
+[01:56:44] [Server thread/INFO]: Preparing spawn area: 0%
+[01:56:44] [Server thread/INFO]: Preparing spawn area: 0%
+[01:56:44] [Server thread/INFO]: Preparing spawn area: 0%
+[01:56:44] [Server thread/INFO]: Preparing spawn area: 0%
+[01:56:44] [Server thread/INFO]: Preparing spawn area: 0%
+[01:56:44] [Server thread/INFO]: Preparing spawn area: 0%
+[01:56:45] [Server thread/INFO]: Preparing spawn area: 0%
+[01:56:45] [Server thread/INFO]: Preparing spawn area: 0%
+[01:56:46] [Server thread/INFO]: Preparing spawn area: 0%
+[01:56:46] [Server thread/INFO]: Preparing spawn area: 2%
+[01:56:47] [Server thread/INFO]: Preparing spawn area: 2%
+[01:56:47] [Server thread/INFO]: Preparing spawn area: 2%
+[01:56:48] [Server thread/INFO]: Preparing spawn area: 18%
+[01:56:48] [Server thread/INFO]: Preparing spawn area: 18%
+[01:56:49] [Server thread/INFO]: Preparing spawn area: 38%
+[01:56:49] [Server thread/INFO]: Time elapsed: 7935 ms
+[01:56:49] [Server thread/INFO]: [TerraformGenerator] world loaded.
+[01:56:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:56:49] [Server thread/INFO]: Preparing spawn area: 2%
+[01:56:50] [Server thread/INFO]: Preparing spawn area: 2%
+[01:56:50] [Server thread/INFO]: Preparing spawn area: 18%
+[01:56:51] [Server thread/INFO]: Preparing spawn area: 51%
+[01:56:51] [Server thread/INFO]: Preparing spawn area: 87%
+[01:56:51] [Server thread/INFO]: Time elapsed: 2012 ms
+[01:56:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:56:51] [Server thread/INFO]: Preparing spawn area: 2%
+[01:56:52] [Server thread/INFO]: Time elapsed: 450 ms
+[01:56:52] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.36
+[01:56:52] [Server thread/INFO]: [voicechat] Initializing compatibility for version 1.21.8-R0.1
+[01:56:52] [Server thread/INFO]: [voicechat] Compatibility version 18
+[01:56:52] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[01:56:52] [Server thread/INFO]: [Minepacks] Enabling Minepacks v2.4.32.4-T20250718161642
+[01:56:52] [Server thread/INFO]: [Minepacks] Starting Minepacks in standalone mode!
+[01:56:52] [Server thread/INFO]: [Minepacks] File "/config.yml" extracted successfully!
+[01:56:52] [Server thread/INFO]: [Minepacks] Config file successfully loaded.
+[01:56:52] [Server thread/WARN]: [Minepacks] Paper support is experimental! Use at your own risk!
+[01:56:52] [Server thread/WARN]: [Minepacks] No guarantee for data integrity! Backup constantly!
+[01:56:52] [Server thread/INFO]: [Minepacks] File "/lang/en.yml" extracted successfully!
+[01:56:52] [Server thread/INFO]: [Minepacks] Language file successfully loaded. Language: english  Author: GeorgH93
+[01:56:52] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Starting...
+[01:56:52] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Start completed.
+[01:56:52] [Server thread/INFO]: [Minepacks] File "/lang/items_en.yml" extracted successfully!
+[01:56:52] [Server thread/INFO]: [Minepacks] Item name language file successfully loaded. Language: english  Author: GeorgH93
+[01:56:52] [Server thread/INFO]: [Minepacks] Loading item translations ...
+[01:56:52] [Server thread/INFO]: [Minepacks] Finished loading item translations for 826 items.
+[01:56:52] [Server thread/INFO]: [Minepacks]  Minepacks has been enabled!  :) 
+[01:56:52] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.2
+[01:56:52] [Server thread/WARN]: [Essentials] Beginning Adventure locale file conversion.
+[01:56:53] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/config.yml
+[01:56:53] [Server thread/WARN]: [Essentials] Missing userdata folder, aborting
+[01:56:53] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/kits.yml
+[01:56:53] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[01:56:53] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[01:56:53] [Server thread/INFO]: [Essentials] Starting Essentials ban format conversion
+[01:56:53] [Server thread/INFO]: [Essentials] Attempting to migrate ignore list to UUIDs
+[01:56:53] [Server thread/INFO]: [Essentials] Attempting to migrate legacy userdata keys to Configurate
+[01:56:53] [Server thread/INFO]: [Essentials] Done converting random teleport config.
+[01:56:53] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/worth.yml
+[01:56:53] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[01:56:53] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[01:56:53] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[01:56:53] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[01:56:53] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[01:56:53] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[01:56:53] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[01:56:53] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[01:56:53] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[01:56:53] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[01:56:53] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[01:56:53] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[01:56:53] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[01:56:53] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[01:56:53] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[01:56:53] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[01:56:53] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[01:56:53] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[01:56:53] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[01:56:53] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[01:56:53] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[01:56:53] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[01:56:53] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[01:56:53] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/tpr.yml
+[01:56:53] [Server thread/INFO]: [Essentials] Loaded 43880 items from items.json.
+[01:56:53] [Server thread/INFO]: [Essentials] Creating config from template: plugins/Essentials/custom_items.yml
+[01:56:53] [Server thread/INFO]: [Essentials] Using locale en
+[01:56:53] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[01:56:53] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[01:56:53] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[01:56:53] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[01:56:53] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[01:56:53] [Server thread/INFO]: [CrisTreeCapitator] Enabling CrisTreeCapitator v6.4.4
+[01:56:53] [Server thread/INFO]: [CrisTreeCapitator] WorldGuard not found. Maybe WorldGuard or this plugin are not up to date?
+[01:56:53] [Server thread/ERROR]: [CrisTreeCapitator] [STDERR] Configuration file not created yet. Skipping load.
+[01:56:53] [Server thread/WARN]: Nag author(s): '[]' of 'CrisTreeCapitator v6.4.4' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[01:56:53] [Server thread/INFO]: [CrisTreeCapitator] Enabled
+[01:56:53] [Server thread/INFO]: [HealthBar-Reloaded] Enabling HealthBar-Reloaded v2.0.4.2
+[01:56:53] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.3-SNAPSHOT
+[01:56:54] [Server thread/INFO]: [GraveStonesPlus] Enabling GraveStonesPlus v1.8.1
+[01:56:54] [Server thread/INFO]: [GraveStonesPlus] Loaded LuckPerms hook!
+[01:56:55] [Server thread/INFO]: [GraveStonesPlus] Enabled GraveStonesPlus!
+[01:56:55] [Server thread/INFO]: [spark] Starting background profiler...
+[01:56:55] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[01:56:55] [Server thread/INFO]: [Geyser-Spigot] 
+[01:56:55] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.3-b912 (git-master-dc5fc8f)
+[01:56:55] [Server thread/INFO]: [Geyser-Spigot] 
+[01:56:55] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[01:56:58] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[01:56:58] [Server thread/INFO]: [Geyser-Spigot] Done (3.021s)! Run /geyser help for help!
+[01:56:58] [ForkJoinPool.commonPool-worker-1/WARN]: [Geyser-Spigot] Missing MC locale file: en_us
+[01:56:58] [ForkJoinPool.commonPool-worker-1/INFO]: [Geyser-Spigot] Downloading Minecraft JAR to extract required files, please wait... (this may take some time depending on the speed of your internet connection)
+[01:56:58] [Server thread/INFO]: Done preparing level "world" (20.771s)
+[01:56:58] [Server thread/INFO]: Running delayed init tasks
+[01:56:58] [Craft Scheduler Thread - 5 - HealthBar-Reloaded/INFO]: Found a new version: 2.0.4.3 (Yours: v2.0.4.2)
+[01:56:58] [Craft Scheduler Thread - 5 - HealthBar-Reloaded/INFO]: Download it on spigot:
+[01:56:58] [Craft Scheduler Thread - 5 - HealthBar-Reloaded/INFO]: spigotmc.org/resources/104616
+[01:56:58] [Craft Scheduler Thread - 4 - Essentials/INFO]: [Essentials] Fetching version information...
+[01:56:58] [Craft Scheduler Thread - 8 - GraveStonesPlus/INFO]: [GraveStonesPlus] GraveStonesPlus is up to date! Version: 1.8.1
+[01:56:58] [Server thread/INFO]: Done (43.604s)! For help, type "help"
+[01:56:58] [Server thread/INFO]: [voicechat] Loading plugins
+[01:56:58] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[01:56:58] [Server thread/INFO]: [voicechat] Initializing plugins
+[01:56:58] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[01:56:58] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[01:56:58] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[01:56:59] [ForkJoinPool.commonPool-worker-1/INFO]: [Geyser-Spigot] Minecraft JAR has been successfully downloaded and loaded!
+[01:57:19] [User Authenticator #0/INFO]: UUID of player Zatanna917 is 3d378d1f-5002-34b4-a623-dee3b1bfba31
+[01:57:19] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LuckPerms, SkinsRestorer, Essentials]
+[01:57:21] [Server thread/INFO]: Zatanna917 joined the game
+[01:57:21] [Server thread/INFO]: Zatanna917[/127.225.99.246:47069] logged in with entity id 31 at ([world]-0.5, 63.0, -5.5)
+[01:57:21] [Server thread/INFO]: [voicechat] Received secret request of Zatanna917 (18)
+[01:57:21] [Server thread/INFO]: [voicechat] Sent secret to Zatanna917
+[01:57:21] [Server thread/WARN]: [Essentials] File motd.txt does not exist. Creating one for you.
+[01:57:54] [pool-29-thread-1/WARN]: [GraveStonesPlus] Detected a month change, but current day is not near end of a month, ignoring month change, 21
+[01:57:54] [pool-29-thread-1/INFO]: [GraveStonesPlus] Detected week changed, processing...
+[01:57:54] [pool-29-thread-1/INFO]: [GraveStonesPlus] Time change event: WEEK, Fake: false
+[01:57:54] [pool-29-thread-1/INFO]: [GraveStonesPlus] Finished processing week changes
+[01:57:59] [pool-29-thread-1/INFO]: [GraveStonesPlus] Detected day changed, processing...
+[01:57:59] [pool-29-thread-1/INFO]: [GraveStonesPlus] Time change event: DAY, Fake: false
+[01:57:59] [pool-29-thread-1/INFO]: [GraveStonesPlus] Finished processing day changes
+[01:58:15] [Server thread/INFO]: Made Zatanna917 a server operator
+[01:59:10] [Server thread/INFO]: Stopping the server
+[01:59:10] [Server thread/INFO]: Stopping server
+[01:59:10] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.9
+[01:59:10] [Server thread/INFO]: [GraveStonesPlus] Disabling GraveStonesPlus v1.8.1
+[01:59:10] [Server thread/INFO]: [GraveStonesPlus] Allowing background tasks to finish, this could take up to 5 seconds
+[01:59:10] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.3-SNAPSHOT
+[01:59:10] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[01:59:10] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[01:59:10] [Server thread/INFO]: [HealthBar-Reloaded] Disabling HealthBar-Reloaded v2.0.4.2
+[01:59:10] [Server thread/INFO]: HealthBar disabled: all the health bars have been removed.
+[01:59:10] [Server thread/INFO]: [CrisTreeCapitator] Disabling CrisTreeCapitator v6.4.4
+[01:59:10] [Server thread/INFO]: [CrisTreeCapitator] Disabled
+[01:59:10] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.2
+[01:59:10] [Server thread/INFO]: [Minepacks] Disabling Minepacks v2.4.32.4-T20250718161642
+[01:59:11] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown initiated...
+[01:59:11] [Server thread/INFO]: [at.pcgamingfreaks.MinepacksStandalone.libs.com.zaxxer.hikari.HikariDataSource] Minepacks-Connection-Pool - Shutdown completed.
+[01:59:11] [Server thread/INFO]: [Minepacks]  Minepacks has been disabled.  :( 
+[01:59:11] [Server thread/INFO]: [TerraformGenerator] Disabling TerraformGenerator v21.0.1
+[01:59:11] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.36
+[01:59:11] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.10
+[01:59:11] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[01:59:11] [Server thread/INFO]: [LuckPerms] Closing storage...
+[01:59:11] [Server thread/INFO]: [LuckPerms] Goodbye!
+[01:59:11] [Server thread/INFO]: Saving players
+[01:59:11] [Server thread/INFO]: Zatanna917 lost connection: Server closed
+[01:59:11] [Server thread/INFO]: Zatanna917 left the game
+[01:59:11] [Server thread/INFO]: Saving worlds
+[01:59:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:59:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[01:59:11] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[01:59:11] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[01:59:14] [Server thread/INFO]: [ChunkHolderManager] Saved 2209 block chunks, 625 entity chunks, 12 poi chunks in world 'world' in 2.76s
+[01:59:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[01:59:14] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[01:59:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:59:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[01:59:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[01:59:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[01:59:14] [Server thread/INFO]: [ChunkHolderManager] Saved 841 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.33s
+[01:59:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[01:59:14] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[01:59:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:59:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[01:59:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[01:59:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[01:59:15] [Server thread/INFO]: [ChunkHolderManager] Saved 841 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.25s
+[01:59:15] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[01:59:15] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[01:59:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:59:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:59:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:59:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:59:15] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[01:59:15] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[01:59:15] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[01:59:15] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
