@@ -23,11 +23,11 @@ last-account-name: CrowSinged
 lastlocation:
   world: 3d3d7510-3aa1-4b52-936b-654cf20de811
   world-name: world
-  x: 114.19255739141592
-  y: 81.0
-  z: -88.10749934005243
-  yaw: 15.458251953125
-  pitch: 0.7501146793365479
+  x: -44.13323548859772
+  y: 73.0
+  z: -15.057967308806356
+  yaw: 94.3499755859375
+  pitch: 13.949990272521973
 logoutlocation:
   world: 3d3d7510-3aa1-4b52-936b-654cf20de811
   world-name: world
@@ -36,3 +36,12 @@ logoutlocation:
   z: -12.848230885987762
   yaw: -33.90087890625
   pitch: 19.200016021728516
+homes:
+  aldea:
+    world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+    world-name: world
+    x: 2362.092337654862
+    y: 73.0
+    z: -1273.4565911060863
+    yaw: -71.099853515625
+    pitch: 6.000025749206543

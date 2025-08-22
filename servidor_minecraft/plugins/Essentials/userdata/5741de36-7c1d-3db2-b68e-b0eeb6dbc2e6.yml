@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1755817831806
-  login: 1755811236516
+  logout: 1755902035769
+  login: 1755902179304
 money: '0'
 last-account-name: Daiki1203
 nickname: §c§lRumia
@@ -44,5 +44,5 @@ logoutlocation:
   x: -54.581477708159824
   y: 73.0
   z: -22.111927737223034
-  yaw: 38.400146484375
-  pitch: 34.349910736083984
+  yaw: 38.55014419555664
+  pitch: 32.09990310668945
