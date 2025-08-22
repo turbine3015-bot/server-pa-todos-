@@ -1453,3 +1453,101 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.ArmorStand.setH
 [22:53:29] [Server thread/INFO]: Villager Villager['▌                   '/34, uuid='c2f2d915-d54b-4388-8605-578d5cff7e08', l='ServerLevel[world]', x=-65.89, y=57.19, z=8.53, cpos=[-5, 0], tl=157847, v=true] died, message: '▌                    was slain by Zatanna917'
 [22:53:31] [Server thread/INFO]: Villager Villager['████            '/14, uuid='0a59f1d7-eff5-46a2-8ee3-1fdaa2aca2a8', l='ServerLevel[world]', x=-66.49, y=57.19, z=8.54, cpos=[-5, 0], tl=157115, v=true] died, message: '████             was slain by Zatanna917'
 [22:53:33] [Server thread/INFO]: Villager Villager['Toolsmith'/18, uuid='65bdf05e-c372-4862-9b73-e904d1bbf8dc', l='ServerLevel[world]', x=-63.50, y=56.00, z=4.65, cpos=[-4, 0], tl=157148, v=true] died, message: 'Toolsmith was slain by Zatanna917'
+[22:53:40] [Server thread/INFO]: Villager Villager['▌                   '/13, uuid='8f29c785-0021-454d-a10e-550490e255ea', l='ServerLevel[world]', x=-70.61, y=56.57, z=12.49, cpos=[-5, 0], tl=157288, v=true] died, message: '▌                    was slain by Zatanna917'
+[22:53:54] [User Authenticator #10/INFO]: UUID of player Daiki1203 is 5741de36-7c1d-3db2-b68e-b0eeb6dbc2e6
+[22:53:55] [Server thread/INFO]: Daiki1203 joined the game
+[22:53:55] [Server thread/INFO]: Daiki1203[/127.214.44.158:35097] logged in with entity id 119250 at ([world]-51.63138471987454, 73.0, -12.848290467622418)
+[22:53:56] [Server thread/INFO]: [voicechat] Received secret request of Daiki1203 (18)
+[22:53:56] [Server thread/INFO]: [voicechat] Sent secret to Daiki1203
+[22:53:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5741de36-7c1d-3db2-b68e-b0eeb6dbc2e6
+[22:53:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5741de36-7c1d-3db2-b68e-b0eeb6dbc2e6
+[22:53:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Daiki1203 (5741de36-7c1d-3db2-b68e-b0eeb6dbc2e6) successfully connected to voice chat
+[22:54:02] [Server thread/INFO]: Villager Villager['█                  '/119295, uuid='b8d16fed-d88f-450e-878c-80e3a19da8c0', l='ServerLevel[world]', x=-64.62, y=60.02, z=-3.90, cpos=[-5, -1], tl=108, v=true] died, message: '█                   was slain by Zatanna917'
+[22:54:03] [Server thread/INFO]: Villager Villager['█                  '/119290, uuid='c80a5c5c-a810-4b81-9e31-15e9c3c4c7fc', l='ServerLevel[world]', x=-64.52, y=59.00, z=-4.68, cpos=[-5, -1], tl=143, v=true] died, message: '█                   was slain by Zatanna917'
+[22:54:11] [Async Chat Thread - #61/INFO]: [Not Secure] <~Derp> re ciruja
+[22:55:15] [Server thread/INFO]: Daiki1203 lost connection: Disconnected
+[22:55:15] [Server thread/INFO]: [voicechat] Disconnecting client Daiki1203
+[22:55:15] [Server thread/INFO]: Daiki1203 left the game
+[22:55:34] [Async Chat Thread - #62/INFO]: [Not Secure] <~Derp> el templito ese si
+[22:56:15] [Async Chat Thread - #62/INFO]: [Not Secure] <~Derp> en el coso este oscuro te lo podes encontrar
+[22:56:37] [Async Chat Thread - #62/INFO]: [Not Secure] <~Samir> eh volvido
+[22:57:01] [Async Chat Thread - #62/INFO]: [Not Secure] <~Derp> compa que le parece esa gorda
+[22:57:12] [Async Chat Thread - #62/INFO]: [Not Secure] <~Vorteex> buscando pillager?
+[22:57:22] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[22:57:25] [User Authenticator #11/INFO]: UUID of player Daiki1203 is 5741de36-7c1d-3db2-b68e-b0eeb6dbc2e6
+[22:57:26] [Server thread/INFO]: Daiki1203 joined the game
+[22:57:26] [Server thread/INFO]: Daiki1203[/127.214.44.158:42451] logged in with entity id 123903 at ([world]-28.890083051323725, 73.0, -4.037952562424466)
+[22:57:27] [Server thread/INFO]: [voicechat] Received secret request of Daiki1203 (18)
+[22:57:27] [Server thread/INFO]: [voicechat] Sent secret to Daiki1203
+[22:57:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5741de36-7c1d-3db2-b68e-b0eeb6dbc2e6
+[22:57:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5741de36-7c1d-3db2-b68e-b0eeb6dbc2e6
+[22:57:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Daiki1203 (5741de36-7c1d-3db2-b68e-b0eeb6dbc2e6) successfully connected to voice chat
+[22:57:41] [Server thread/INFO]: Vorteexcito was blown up by Creeper
+[22:57:42] [Server thread/INFO]: SamiHatesTurbine issued server command: /sethome lalomadelorto
+[22:57:43] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world},x=101.35720798511272,y=-15.747796659746275,z=561.2172750736554,pitch=14.550156,yaw=-169.65186}
+[22:57:44] [Async Chat Thread - #62/INFO]: [Not Secure] <~Zaty> xdd
+[22:57:46] [Async Chat Thread - #63/INFO]: [Not Secure] <~Vorteex> DEJATE DE JODER
+[22:57:49] [Async Chat Thread - #63/INFO]: [Not Secure] <~Vorteex> ME APARECIO DE LA NADA
+[22:57:49] [Server thread/INFO]: SamiHatesTurbine issued server command: /home home
+[22:57:53] [Async Chat Thread - #63/INFO]: [Not Secure] <~Vorteex> APARECIO EN MI CARA
+[22:57:56] [Async Chat Thread - #63/INFO]: [Not Secure] <~Derp> desintala vortex
+[22:57:58] [Async Chat Thread - #63/INFO]: [Not Secure] <~Samir> siempre de la nada
+[22:57:59] [Async Chat Thread - #63/INFO]: [Not Secure] <~Rumia> xd xd xd
+[22:58:11] [Async Chat Thread - #63/INFO]: [Not Secure] <~Vorteex> bld, esta picando diamantes y salio de la nada
+[22:58:23] [Async Chat Thread - #63/INFO]: [Not Secure] <~Vorteex> zatanna
+[22:58:25] [Async Chat Thread - #63/INFO]: [Not Secure] <~Vorteex> tpa porfavor
+[22:58:29] [Async Chat Thread - #63/INFO]: [Not Secure] <~Zaty> q femboy
+[22:58:34] [Async Chat Thread - #63/INFO]: [Not Secure] <~Vorteex> tpa
+[22:58:36] [Async Chat Thread - #63/INFO]: [Not Secure] <~Zaty> cords
+[22:58:38] [Async Chat Thread - #63/INFO]: [Not Secure] <~Vorteex> 101 -16 561
+[22:58:47] [Server thread/INFO]: Daiki1203 lost connection: Disconnected
+[22:58:47] [Server thread/INFO]: [voicechat] Disconnecting client Daiki1203
+[22:58:47] [Server thread/INFO]: Daiki1203 left the game
+[22:58:49] [Server thread/INFO]: Zatanna917 issued server command: /tp 101 -16 561
+[22:58:50] [Async Chat Thread - #63/INFO]: [Not Secure] <~Derp> es ahi nomas de la base vortex hdp
+[22:58:55] [Server thread/INFO]: Zatanna917 issued server command: /tp Vorteexcito Zatanna917
+[22:58:59] [Server thread/INFO]: Zatanna917 issued server command: /back
+[22:59:01] [Server thread/INFO]: Named entity ArmorStand['Vorteexcito died here!'/124578, uuid='c4f85c03-f695-419e-bf51-c6571d2b2014', l='ServerLevel[world]', x=101.50, y=-14.50, z=561.50, cpos=[6, 35], tl=1554, v=true] died: Vorteexcito died here! died
+[22:59:01] [Server thread/INFO]: Named entity ArmorStand['Died at Fri Aug 22 22:57:43 UTC 2025'/124579, uuid='489529df-7e7a-462f-a428-7171ca6ab35a', l='ServerLevel[world]', x=101.50, y=-14.75, z=561.50, cpos=[6, 35], tl=1554, v=true] died: Died at Fri Aug 22 22:57:43 UTC 2025 died
+[22:59:01] [Server thread/INFO]: Named entity ArmorStand['Reason: Vorteexcito was blown up by Creeper'/124580, uuid='9024cda4-8bbb-4d43-9609-ea6edd058eb7', l='ServerLevel[world]', x=101.50, y=-15.00, z=561.50, cpos=[6, 35], tl=1554, v=true] died: Reason: Vorteexcito was blown up by Creeper died
+[22:59:04] [Server thread/INFO]: Vorteexcito issued server command: /sethome home
+[22:59:37] [Async Chat Thread - #63/INFO]: [Not Secure] <~Zaty> la pregunta mas boluda
+[22:59:51] [Async Chat Thread - #63/INFO]: [Not Secure] <~Samir> posta si hago el tp viene conmigo??
+[22:59:58] [Async Chat Thread - #63/INFO]: [Not Secure] <~Derp> ni idea
+[22:59:59] [Async Chat Thread - #63/INFO]: [Not Secure] <~Samir> yo abandone a 3 caballos ptm
+[23:00:01] [Async Chat Thread - #62/INFO]: [Not Secure] <~Derp> proba
+[23:00:08] [Async Chat Thread - #62/INFO]: [Not Secure] <~Vorteex> pobre juan
+[23:00:32] [Async Chat Thread - #62/INFO]: [Not Secure] <~Samir> con pepitas d hierro y una antorcha creo
+[23:00:39] [User Authenticator #12/INFO]: UUID of player Daiki1203 is 5741de36-7c1d-3db2-b68e-b0eeb6dbc2e6
+[23:00:40] [Server thread/INFO]: Daiki1203 joined the game
+[23:00:40] [Server thread/INFO]: Daiki1203[/127.214.44.158:48119] logged in with entity id 127980 at ([world]-56.18093010642246, 73.0, -20.76249998807907)
+[23:00:41] [Server thread/INFO]: [voicechat] Received secret request of Daiki1203 (18)
+[23:00:41] [Server thread/INFO]: [voicechat] Sent secret to Daiki1203
+[23:00:43] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 5741de36-7c1d-3db2-b68e-b0eeb6dbc2e6
+[23:00:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 5741de36-7c1d-3db2-b68e-b0eeb6dbc2e6
+[23:00:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Daiki1203 (5741de36-7c1d-3db2-b68e-b0eeb6dbc2e6) successfully connected to voice chat
+[23:01:02] [Async Chat Thread - #62/INFO]: [Not Secure] <~Vorteex> oh
+[23:01:06] [Async Chat Thread - #62/INFO]: [Not Secure] <~Vorteex> me da miedo los creepers
+[23:01:41] [Async Chat Thread - #62/INFO]: [Not Secure] <~Zaty> lo gantes en los yunkes
+[23:01:42] [Async Chat Thread - #62/INFO]: [Not Secure] <~Zaty> xd
+[23:01:47] [Async Chat Thread - #62/INFO]: [Not Secure] <~Vorteex> dios mio
+[23:01:50] [Async Chat Thread - #62/INFO]: [Not Secure] <~Vorteex> tenia 19 xp
+[23:01:52] [Async Chat Thread - #62/INFO]: [Not Secure] <~Vorteex> y ahora tengo 6
+[23:01:59] [Server thread/INFO]: Vorteexcito issued server command: /back
+[23:01:59] [Server thread/INFO]: CrowSinged issued server command: /home
+[23:02:11] [Server thread/INFO]: CrowSinged issued server command: /homes
+[23:02:17] [Async Chat Thread - #62/INFO]: [Not Secure] <~Vorteex> disco de mierda
+[23:02:19] [Async Chat Thread - #62/INFO]: [Not Secure] <~Vorteex> lo voy a quemar
+[23:02:27] [Server thread/INFO]: RageMadsonVII has made the advancement [Bee Our Guest]
+[23:02:30] [Server thread/INFO]: CrowSinged issued server command: /tpa rag
+[23:02:38] [Server thread/INFO]: RageMadsonVII issued server command: /tpaccept
+[23:02:48] [Server thread/INFO]: Daiki1203 issued server command: /home
+[23:02:48] [Server thread/INFO]: CrowSinged issued server command: /sethome Base
+[23:02:54] [Server thread/INFO]: CrowSinged issued server command: /sethome aldea
+[23:03:01] [Server thread/INFO]: CrowSinged issued server command: /sethome Base
+[23:03:07] [Server thread/INFO]: Daiki1203 issued server command: /back
+[23:03:46] [Async Chat Thread - #64/INFO]: [Not Secure] <~Vorteex> es una banda
+[23:03:58] [Async Chat Thread - #64/INFO]: [Not Secure] <~Vorteex> aldeanos...
+[23:04:01] [Async Chat Thread - #64/INFO]: [Not Secure] <~Vorteex> me sirve >:#
+[23:04:05] [Async Chat Thread - #64/INFO]: [Not Secure] <~Vorteex> >:3
+[23:04:21] [Server thread/INFO]: Zatanna917 issued server command: /heal
