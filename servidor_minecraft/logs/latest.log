@@ -1551,3 +1551,82 @@ java.lang.NullPointerException: Cannot invoke "org.bukkit.entity.ArmorStand.setH
 [23:04:01] [Async Chat Thread - #64/INFO]: [Not Secure] <~Vorteex> me sirve >:#
 [23:04:05] [Async Chat Thread - #64/INFO]: [Not Secure] <~Vorteex> >:3
 [23:04:21] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[23:04:53] [Async Chat Thread - #64/INFO]: [Not Secure] <~Vorteex> q riko crow
+[23:04:55] [Server thread/INFO]: Zatanna917 fell from a high place
+[23:04:57] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world},x=-54.120531485727746,y=73.0,z=-4.34899738060588,pitch=61.799995,yaw=166.04846}
+[23:04:58] [Server thread/INFO]: Daiki1203 issued server command: /back
+[23:05:00] [Async Chat Thread - #64/INFO]: [Not Secure] <~Vorteex> JAJAJJAJAJJAJAJ
+[23:05:01] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/130894, uuid='90aa6b0d-a053-4e97-8a39-e7a4c46cdd7c', l='ServerLevel[world]', x=-54.50, y=74.50, z=-4.50, cpos=[-4, -1], tl=73, v=true] died: Zatanna917 died here! died
+[23:05:01] [Server thread/INFO]: Named entity ArmorStand['Died at Fri Aug 22 23:04:57 UTC 2025'/130895, uuid='cb17fb9d-d7f1-4163-a12f-d602739d60a1', l='ServerLevel[world]', x=-54.50, y=74.25, z=-4.50, cpos=[-4, -1], tl=73, v=true] died: Died at Fri Aug 22 23:04:57 UTC 2025 died
+[23:05:01] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 fell from a high place'/130896, uuid='e0dfa046-0f10-49d5-8eeb-cc9572d42bff', l='ServerLevel[world]', x=-54.50, y=74.00, z=-4.50, cpos=[-4, -1], tl=73, v=true] died: Reason: Zatanna917 fell from a high place died
+[23:05:07] [Async Chat Thread - #64/INFO]: [Not Secure] <~Zaty> queria hacer el cama drop
+[23:05:32] [Async Chat Thread - #64/INFO]: [Not Secure] <~Samir> no hay piedra?
+[23:05:55] [Server thread/INFO]: Daiki1203 issued server command: /back
+[23:06:10] [Async Chat Thread - #64/INFO]: [Not Secure] <~Derp> la de tiktok creo que era el logo de tiktok
+[23:06:37] [Server thread/INFO]: Zatanna917 fell from a high place
+[23:06:39] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world},x=-56.0,y=73.0,z=-5.0,pitch=0.0,yaw=0.0}
+[23:06:42] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/131727, uuid='1f4314bc-a06e-4b6f-b809-5ea0ad92699d', l='ServerLevel[world]', x=-55.50, y=74.50, z=-4.50, cpos=[-4, -1], tl=56, v=true] died: Zatanna917 died here! died
+[23:06:42] [Server thread/INFO]: Named entity ArmorStand['Died at Fri Aug 22 23:06:39 UTC 2025'/131728, uuid='fbdc6ecf-4f0e-4430-bd73-47a72ebaacdd', l='ServerLevel[world]', x=-55.50, y=74.25, z=-4.50, cpos=[-4, -1], tl=56, v=true] died: Died at Fri Aug 22 23:06:39 UTC 2025 died
+[23:06:42] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 fell from a high place'/131729, uuid='74934a40-b348-4226-a489-796d1a618c99', l='ServerLevel[world]', x=-55.50, y=74.00, z=-4.50, cpos=[-4, -1], tl=56, v=true] died: Reason: Zatanna917 fell from a high place died
+[23:06:50] [Server thread/INFO]: Daiki1203 issued server command: /back
+[23:07:13] [Server thread/INFO]: Zatanna917 issued server command: /gamemode c
+[23:07:17] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[23:07:19] [Async Chat Thread - #66/INFO]: [Not Secure] <~Derp> esa risa
+[23:07:22] [Async Chat Thread - #66/INFO]: [Not Secure] <~Vorteex> q le pasa la risa XD
+[23:07:39] [Async Chat Thread - #66/INFO]: [Not Secure] <~Zaty> pasa losa
+[23:07:46] [Async Chat Thread - #66/INFO]: [Not Secure] <~Zaty> pasa losa
+[23:07:59] [Server thread/INFO]: Vorteexcito has made the advancement [What a Deal!]
+[23:08:25] [Async Chat Thread - #66/INFO]: [Not Secure] <~Zaty> pasa losa
+[23:08:31] [Async Chat Thread - #66/INFO]: [Not Secure] <~Zaty> pasa losa
+[23:08:32] [Async Chat Thread - #66/INFO]: [Not Secure] <~Zaty> pasa losa
+[23:08:32] [Async Chat Thread - #66/INFO]: [Not Secure] <~Zaty> pasa losa
+[23:08:33] [Async Chat Thread - #66/INFO]: [Not Secure] <~Zaty> pasa losa
+[23:08:33] [Async Chat Thread - #66/INFO]: [Not Secure] <~Zaty> pasa losa
+[23:08:34] [Async Chat Thread - #66/INFO]: [Not Secure] <~Zaty> pasa losa
+[23:08:34] [Async Chat Thread - #66/INFO]: [Not Secure] <~Zaty> pasa losa
+[23:08:42] [Async Chat Thread - #66/INFO]: [Not Secure] <~Zaty> pasa losa
+[23:08:44] [Async Chat Thread - #66/INFO]: [Not Secure] <~Samir> pasenle losas
+[23:09:33] [Async Chat Thread - #66/INFO]: [Not Secure] <~Derp> ay gordo
+[23:09:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2860ms or 57 ticks behind
+[23:09:34] [Server thread/WARN]: Zatanna917 moved too quickly! -10.133616192352989,0.0,-1.0578213280635187
+[23:10:00] [Server thread/INFO]: Zatanna917 fell from a high place
+[23:10:02] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world},x=-54.0,y=74.0,z=-6.0,pitch=0.0,yaw=0.0}
+[23:10:03] [Async Chat Thread - #66/INFO]: [Not Secure] <~Vorteex> me esta queriendo estafar en whatsapp, ayuda XD
+[23:10:06] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/139196, uuid='01ad03e2-188a-42e7-a53e-2af004b8fbd1', l='ServerLevel[world]', x=-53.50, y=75.50, z=-5.50, cpos=[-4, -1], tl=78, v=true] died: Zatanna917 died here! died
+[23:10:06] [Server thread/INFO]: Named entity ArmorStand['Died at Fri Aug 22 23:10:02 UTC 2025'/139197, uuid='9ca5c97f-228d-43cd-bc08-f800a363cb6d', l='ServerLevel[world]', x=-53.50, y=75.25, z=-5.50, cpos=[-4, -1], tl=78, v=true] died: Died at Fri Aug 22 23:10:02 UTC 2025 died
+[23:10:06] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 fell from a high place'/139198, uuid='fcda5bb6-7291-402e-89a6-e5dca83fd3f9', l='ServerLevel[world]', x=-53.50, y=75.00, z=-5.50, cpos=[-4, -1], tl=78, v=true] died: Reason: Zatanna917 fell from a high place died
+[23:10:08] [Async Chat Thread - #66/INFO]: [Not Secure] <~Samir> deja d morir zatana
+[23:10:22] [Async Chat Thread - #66/INFO]: [Not Secure] <~Derp> a mi tambien me quisieron estafar ante ayer
+[23:10:35] [Async Chat Thread - #66/INFO]: [Not Secure] <~Derp> naa
+[23:10:40] [Async Chat Thread - #66/INFO]: [Not Secure] <~Vorteex> icono de mercado pago muy mala calidad xd
+[23:11:13] [Async Chat Thread - #66/INFO]: [Not Secure] <~Derp> literalmente para nada
+[23:11:16] [Async Chat Thread - #66/INFO]: [Not Secure] <~Derp> comel
+[23:12:06] [Async Chat Thread - #66/INFO]: [Not Secure] <~Zaty> pones el zapallo y le pegas con la tijera
+[23:15:01] [Async Chat Thread - #68/INFO]: [Not Secure] <~Rumia> devuelvan la tablilla
+[23:17:39] [Async Chat Thread - #70/INFO]: [Not Secure] <~Derp> this is a bucket
+[23:17:45] [Async Chat Thread - #70/INFO]: [Not Secure] <~Samir> dear god...
+[23:18:00] [Async Chat Thread - #70/INFO]: [Not Secure] <~Rumia> it contains a bucket
+[23:18:09] [Async Chat Thread - #70/INFO]: [Not Secure] <~Zaty> duerman
+[23:18:15] [Async Chat Thread - #70/INFO]: [Not Secure] <~Zaty> duerman
+[23:18:23] [Async Chat Thread - #70/INFO]: [Not Secure] <~Vorteex> LABURA ALDEANOS DE MIERDA
+[23:18:25] [Async Chat Thread - #71/INFO]: [Not Secure] <~Zaty> pones el zapallo y le pegas con la tijera
+[23:18:26] [Async Chat Thread - #71/INFO]: [Not Secure] <~Vorteex> LABURAAAAAAAAAAAAAAAAA
+[23:18:34] [Async Chat Thread - #71/INFO]: [Not Secure] <~Zaty> duerman
+[23:18:53] [Async Chat Thread - #71/INFO]: [Not Secure] <~Zaty> y te da el zapallo tallado
+[23:19:27] [Async Chat Thread - #71/INFO]: [Not Secure] <~Rumia> a morir a mori que se seque y a morir
+[23:20:00] [Async Chat Thread - #71/INFO]: [Not Secure] <~Vorteex> al que?
+[23:20:21] [Async Chat Thread - #71/INFO]: [Not Secure] <~Vorteex> lindo gato
+[23:20:28] [Async Chat Thread - #71/INFO]: [Not Secure] <~Vorteex> vamos a hacer sopa de gato XD
+[23:21:40] [Server thread/INFO]: Zatanna917 fell from a high place
+[23:21:42] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world},x=-56.0,y=74.0,z=-6.0,pitch=0.0,yaw=0.0}
+[23:21:45] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/146155, uuid='d56a5267-19e9-4c5b-95fe-bfed4bcc346d', l='ServerLevel[world]', x=-55.50, y=75.50, z=-5.50, cpos=[-4, -1], tl=57, v=true] died: Zatanna917 died here! died
+[23:21:45] [Server thread/INFO]: Named entity ArmorStand['Died at Fri Aug 22 23:21:42 UTC 2025'/146156, uuid='4283c8d3-6df2-4b8f-8119-09cc9cd3597d', l='ServerLevel[world]', x=-55.50, y=75.25, z=-5.50, cpos=[-4, -1], tl=57, v=true] died: Died at Fri Aug 22 23:21:42 UTC 2025 died
+[23:21:45] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 fell from a high place'/146157, uuid='9491532c-af6a-47b6-a631-1fac4cfb44eb', l='ServerLevel[world]', x=-55.50, y=75.00, z=-5.50, cpos=[-4, -1], tl=57, v=true] died: Reason: Zatanna917 fell from a high place died
+[23:21:56] [Async Chat Thread - #72/INFO]: [Not Secure] <~Samir> zatana deja de forzar clip
+[23:23:22] [Async Chat Thread - #74/INFO]: [Not Secure] <~Zaty> el ghast??
+[23:23:28] [Async Chat Thread - #74/INFO]: [Not Secure] <~Zaty> si lo ando usando
+[23:23:37] [Async Chat Thread - #74/INFO]: [Not Secure] <~Zaty> solo que ahora estoy en esto
+[23:24:25] [Server thread/INFO]: Vorteexcito has made the advancement [Ol' Betsy]
+[23:24:28] [Async Chat Thread - #74/INFO]: [Not Secure] <~Vorteex> lo siento
+[23:24:31] [Async Chat Thread - #74/INFO]: [Not Secure] <~Vorteex> queria logro xd
+[23:24:44] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 torch 300

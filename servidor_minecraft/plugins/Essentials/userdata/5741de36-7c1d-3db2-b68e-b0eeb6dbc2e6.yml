@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1755903787728
+  lastteleport: 1755904010571
   lastheal: 0
   mute: 0
   jail: 0
@@ -24,11 +24,11 @@ nickname: §c§lRumia
 lastlocation:
   world: 3d3d7510-3aa1-4b52-936b-654cf20de811
   world-name: world
-  x: -57.50561876392538
-  y: 73.0
-  z: -15.710397586478663
-  yaw: 101.70012664794922
-  pitch: 19.499937057495117
+  x: -72.33219340211875
+  y: 38.0
+  z: -58.21380711619397
+  yaw: -37.408782958984375
+  pitch: 37.199790954589844
 homes:
   home:
     world: 3d3d7510-3aa1-4b52-936b-654cf20de811
