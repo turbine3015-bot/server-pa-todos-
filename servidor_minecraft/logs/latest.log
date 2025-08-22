@@ -335,3 +335,71 @@
 [21:00:20] [Async Chat Thread - #10/INFO]: [Not Secure] <~Zaty> piedra lisa
 [21:00:23] [Async Chat Thread - #10/INFO]: [Not Secure] <~Zaty> mira veni
 [21:00:38] [Async Chat Thread - #10/INFO]: [Not Secure] <~Zaty> de esta cocina
+[21:00:42] [Async Chat Thread - #10/INFO]: [Not Secure] <~Zaty> cocina
+[21:01:04] [Async Chat Thread - #10/INFO]: [Not Secure] <~Zaty> esta piedra
+[21:01:10] [Async Chat Thread - #10/INFO]: [Not Secure] <~Zaty> esa q se cocina
+[21:01:13] [Async Chat Thread - #10/INFO]: [Not Secure] <~Zaty> hierro
+[21:01:16] [Async Chat Thread - #10/INFO]: [Not Secure] <~Zaty> y horno normal
+[21:01:17] [Server thread/INFO]: Derposito was slain by Enderman
+[21:01:19] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world},x=-97.53187687179683,y=51.0,z=-43.34050651335406,pitch=-8.383458,yaw=130.49072}
+[21:01:25] [Async Chat Thread - #10/INFO]: [Not Secure] <~Vorteex> loco
+[21:01:30] [Async Chat Thread - #10/INFO]: [Not Secure] <~Vorteex> 3 horas mirando el menu de minecraft
+[21:01:35] [Async Chat Thread - #10/INFO]: [Not Secure] <~Vorteex> esperando que prenda el sv
+[21:01:35] [User Authenticator #2/INFO]: UUID of player SamiHatesTurbine is bd29d369-0633-3c23-a47f-15bd00f6f57e
+[21:01:36] [Server thread/INFO]: SamiHatesTurbine joined the game
+[21:01:36] [Server thread/INFO]: SamiHatesTurbine[/127.101.203.244:35919] logged in with entity id 9387 at ([world_nether]-97.5741020545932, 44.0, 2.5397348817665186)
+[21:01:37] [Async Chat Thread - #11/INFO]: [Not Secure] <~Vorteex> lpm
+[21:01:37] [Server thread/INFO]: [voicechat] Received secret request of SamiHatesTurbine (18)
+[21:01:37] [Server thread/INFO]: [voicechat] Sent secret to SamiHatesTurbine
+[21:01:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player bd29d369-0633-3c23-a47f-15bd00f6f57e
+[21:01:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player bd29d369-0633-3c23-a47f-15bd00f6f57e
+[21:01:39] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player SamiHatesTurbine (bd29d369-0633-3c23-a47f-15bd00f6f57e) successfully connected to voice chat
+[21:01:56] [Async Chat Thread - #11/INFO]: [Not Secure] <~Samir> oa
+[21:01:57] [Server thread/INFO]: Named entity ArmorStand['Derposito died here!'/9271, uuid='4cfa0869-1c07-4bc2-9679-e61ca6e5b86f', l='ServerLevel[world]', x=-97.50, y=52.50, z=-43.50, cpos=[-7, -3], tl=770, v=true] died: Derposito died here! died
+[21:01:57] [Server thread/INFO]: Named entity ArmorStand['Died at Fri Aug 22 21:01:19 UTC 2025'/9272, uuid='d86992b6-cdc7-42d9-b3b8-9ee0c8cdc19a', l='ServerLevel[world]', x=-97.50, y=52.25, z=-43.50, cpos=[-7, -3], tl=770, v=true] died: Died at Fri Aug 22 21:01:19 UTC 2025 died
+[21:01:57] [Server thread/INFO]: Named entity ArmorStand['Reason: Derposito was slain by Enderman'/9273, uuid='cc726839-f50f-414d-b968-8f92bf809d8c', l='ServerLevel[world]', x=-97.50, y=52.00, z=-43.50, cpos=[-7, -3], tl=770, v=true] died: Reason: Derposito was slain by Enderman died
+[21:02:05] [Async Chat Thread - #11/INFO]: [Not Secure] <~Derp> que dice
+[21:02:07] [Async Chat Thread - #11/INFO]: [Not Secure] <~Derp> femboy
+[21:02:29] [Async Chat Thread - #11/INFO]: [Not Secure] <~Vorteex> solo juego juegos de modo historia
+[21:02:50] [Server thread/INFO]: Zatanna917 issued server command: /execute in minecraft:overworld run tp Zatanna917 122.0 63 -147.0
+[21:02:52] [Server thread/INFO]: Vorteexcito issued server command: /delhome homer
+[21:02:53] [Server thread/INFO]: Vorteexcito issued server command: /delhome home
+[21:02:55] [Server thread/INFO]: Vorteexcito issued server command: /sethome home
+[21:02:57] [Server thread/INFO]: Zatanna917 issued server command: /execute in minecraft:overworld run tp Zatanna917 171.0 63 -67.0
+[21:03:09] [Server thread/INFO]: Zatanna917 issued server command: /execute in minecraft:overworld run tp Zatanna917 294.0 67 -1229.0
+[21:03:10] [Paper Common Worker #0/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkUpgradeGenericStatusTask] Future status not complete after scheduling: minecraft:biomes, generate: true
+[21:03:12] [Server thread/INFO]: Zatanna917 issued server command: /execute in minecraft:overworld run tp Zatanna917 312.0 66 -1228.0
+[21:03:16] [Server thread/WARN]: RageMadsonVII moved too quickly! 2.0140811449753215,0.0,-10.044026473132401
+[21:03:43] [Server thread/INFO]: Zatanna917 issued server command: /execute in minecraft:overworld run tp Zatanna917 -247.0 63 -2151.0
+[21:04:06] [Server thread/INFO]: Zatanna917 issued server command: /home
+[21:04:09] [Server thread/INFO]: Zatanna917 issued server command: /gamemode c
+[21:04:25] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[21:04:33] [Async Chat Thread - #12/INFO]: [Not Secure] <~Vorteex> tengo 13 bolas de slime
+[21:04:47] [Async Chat Thread - #12/INFO]: [Not Secure] <~Vorteex> hice guiso :D
+[21:07:00] [Server thread/INFO]: Vorteexcito issued server command: /back
+[21:07:56] [Server thread/INFO]: Zatanna917 issued server command: /home
+[21:08:41] [Async Chat Thread - #14/INFO]: [Not Secure] <~Vorteex> por las dudas
+[21:08:45] [Async Chat Thread - #15/INFO]: [Not Secure] <~Vorteex> si me pegaste vos
+[21:09:05] [Async Chat Thread - #15/INFO]: [Not Secure] <~Vorteex> XD
+[21:09:08] [Async Chat Thread - #15/INFO]: [Not Secure] <~Vorteex> PARA
+[21:09:09] [Async Chat Thread - #15/INFO]: [Not Secure] <~Vorteex> PARAAAAA
+[21:09:28] [Async Chat Thread - #15/INFO]: [Not Secure] <~Zaty> duerman
+[21:09:44] [Server thread/INFO]: Vorteexcito issued server command: /back
+[21:10:12] [Netty Epoll Server IO #2/INFO]: Disconnecting Vorteexcito for sending keepalive response (2191876) out-of-order!
+[21:10:12] [Server thread/INFO]: Vorteexcito lost connection: Timed out
+[21:10:12] [Server thread/INFO]: [voicechat] Disconnecting client Vorteexcito
+[21:10:12] [Server thread/INFO]: Vorteexcito left the game
+[21:10:20] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 lava_bucket 30
+[21:10:21] [User Authenticator #3/INFO]: UUID of player Vorteexcito is 1f450d87-df90-34ad-9618-043d8b73ec6e
+[21:10:23] [Server thread/INFO]: Vorteexcito joined the game
+[21:10:23] [Server thread/INFO]: Vorteexcito[/127.59.71.211:51657] logged in with entity id 15090 at ([world]228.86097028650659, -38.0, 687.3210499506644)
+[21:10:24] [Server thread/INFO]: [voicechat] Received secret request of Vorteexcito (18)
+[21:10:24] [Server thread/INFO]: [voicechat] Sent secret to Vorteexcito
+[21:10:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 1f450d87-df90-34ad-9618-043d8b73ec6e
+[21:10:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 1f450d87-df90-34ad-9618-043d8b73ec6e
+[21:10:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Vorteexcito (1f450d87-df90-34ad-9618-043d8b73ec6e) successfully connected to voice chat
+[21:10:31] [Server thread/INFO]: Vorteexcito issued server command: /back
+[21:10:46] [Async Chat Thread - #16/INFO]: [Not Secure] <~Vorteex> casi me muero xd
+[21:10:50] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 cobbleblock 300
+[21:10:52] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 cobbleblock 300
+[21:10:53] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 cobbleblock 300

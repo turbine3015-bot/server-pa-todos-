@@ -1524,3 +1524,30 @@
 [2025-08-22 20:40:51] [INFO   ] Post injection: getChunkSource().getChunkGenerator() is of type NMSChunkGenerator 
 [2025-08-22 20:40:51] [INFO   ]  Injection success! Proceeding with generation. 
 [2025-08-22 20:40:53] [INFO   ]  world loaded. 
+[2025-08-22 21:03:10] [INFO   ] Will spawn stronghold at: CoordPair[x=-778, z=1172] 
+[2025-08-22 21:03:10] [INFO   ] Spawning MossyCavePopulator at 288,35,-1232 
+[2025-08-22 21:03:10] [INFO   ] Spawning DeepCavePopulator at 299,-33,-1227 
+[2025-08-22 21:03:11] [INFO   ] Spawning CaveFluidClusterPopulator at 280,4,-1240 
+[2025-08-22 21:03:12] [INFO   ] Spawning LushClusterCavePopulator at 256,16,-1216 
+[2025-08-22 21:03:12] [INFO   ] Spawning CrystallineClusterCavePopulator at 258,13,-1204 
+[2025-08-22 21:03:14] [INFO   ] Generating org.terraform.structure.villagehouse.VillageHousePopulator at chunk: 20,-76 
+[2025-08-22 21:03:14] [INFO   ] Spawning animal farm at 320,70,-1216 with rotation of WEST 
+[2025-08-22 21:03:15] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: 26,-77 
+[2025-08-22 21:03:17] [INFO   ] Spawning DripstoneClusterCavePopulator at 256,45,-1344 
+[2025-08-22 21:03:19] [INFO   ] Large Cave at 320,14,-704 has water level > -30 with populator MushroomCavePopulator 
+[2025-08-22 21:03:43] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -259 -7 -2203 in a room of size 14x13 
+[2025-08-22 21:03:43] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -244 -7 -2238 in a room of size 15x14 
+[2025-08-22 21:03:43] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -160 -7 -2174 in a room of size 15x14 
+[2025-08-22 21:03:43] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -169 -7 -2246 in a room of size 14x15 
+[2025-08-22 21:03:43] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -215 -7 -2225 in a room of size 15x15 
+[2025-08-22 21:03:43] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -188 -7 -2188 in a room of size 15x14 
+[2025-08-22 21:03:43] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -215 -7 -2309 in a room of size 13x14 
+[2025-08-22 21:03:43] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -124 -7 -2184 in a room of size 15x15 
+[2025-08-22 21:03:44] [INFO   ] Spawning FrozenCavePopulator at -227,-1,-2156 
+[2025-08-22 21:03:47] [INFO   ] Spawning ForestedMountainsCavePopulator at -254,31,-2033 
+[2025-08-22 21:03:48] [INFO   ] Spawning Creaking Heart at -213,69,-2049 
+[2025-08-22 21:03:49] [INFO   ] Spawning Creaking Heart at -150,70,-2107 
+[2025-08-22 21:03:51] [INFO   ] Spawning Creaking Heart at -132,66,-2083 
+[2025-08-22 21:03:52] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: -12,-140 
+[2025-08-22 21:03:55] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: -15,-146 
+[2025-08-22 21:09:50] [INFO   ] Large Cave at -192,10,832 has water level > -28 with populator GenericLargeCavePopulator 
