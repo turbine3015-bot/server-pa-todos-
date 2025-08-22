@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1755897031412
+  lastteleport: 1755897336665
   lastheal: 0
   mute: 0
   jail: 0
@@ -24,11 +24,11 @@ nickname: §c§lVorteex
 lastlocation:
   world: 3d3d7510-3aa1-4b52-936b-654cf20de811
   world-name: world
-  x: 227.09354377647844
-  y: -38.0
-  z: 687.8301832104102
-  yaw: 122.26246643066406
-  pitch: 22.350337982177734
+  x: 212.0080946147695
+  y: -40.0
+  z: 647.8778357383869
+  yaw: -19.637359619140625
+  pitch: 21.300281524658203
 logoutlocation:
   world: 3d3d7510-3aa1-4b52-936b-654cf20de811
   world-name: world
@@ -41,8 +41,8 @@ homes:
   home:
     world: 3d3d7510-3aa1-4b52-936b-654cf20de811
     world-name: world
-    x: 320.2121430024257
-    y: -27.0
-    z: 611.7681952913152
-    yaw: -36.2862548828125
-    pitch: 28.8002986907959
+    x: -58.02486947123191
+    y: 73.0
+    z: -8.413672203405168
+    yaw: 150.9005126953125
+    pitch: 6.450018882751465
