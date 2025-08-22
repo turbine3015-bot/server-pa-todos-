@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1755818381706
-  login: 1755895318961
+  logout: 1755906531762
+  login: 1755906539956
 money: '0'
 last-account-name: RageMadsonVII
 logoutlocation:
   world: 3d3d7510-3aa1-4b52-936b-654cf20de811
   world-name: world
-  x: -56.855788780649924
+  x: -55.85961790219474
   y: 73.0
-  z: -69.77736527945991
-  yaw: 151.64910888671875
-  pitch: 15.750036239624023
+  z: 21.148610401688003
+  yaw: 80.26505279541016
+  pitch: 43.95000076293945
 nickname: §c§lTroy
 lastlocation:
   world: 3d3d7510-3aa1-4b52-936b-654cf20de811
