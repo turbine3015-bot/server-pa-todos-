@@ -2859,3 +2859,13 @@
 [2025-08-23 20:49:11] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -164 -4 1354 in a room of size 14x13 
 [2025-08-23 20:55:33] [INFO   ] Spawning FrozenCavePopulator at -32,35,-735 
 [2025-08-23 21:05:17] [INFO   ] Large Cave at -192,6,-1216 has water level > -23 with populator MushroomCavePopulator 
+[2025-08-23 22:44:28] [INFO   ] Large Cave at 18752,13,12096 has water level > -27 with populator MushroomCavePopulator 
+[2025-08-23 22:44:33] [INFO   ] Generating org.terraform.structure.small.igloo.IglooPopulator at chunk: 1142,754 
+[2025-08-23 22:44:33] [INFO   ] Placing igloo of size 6 
+[2025-08-23 22:44:34] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 1155,760 
+[2025-08-23 22:44:34] [INFO   ] Spawning Underground Dungeon at 18486,39,12160 
+[2025-08-23 22:44:35] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 1155,761 
+[2025-08-23 22:44:35] [INFO   ] Spawning Underground Dungeon at 18483,47,12189 
+[2025-08-23 22:44:36] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: 1155,746 
+[2025-08-23 22:44:37] [INFO   ] Generating org.terraform.structure.villagehouse.VillageHousePopulator at chunk: 1140,756 
+[2025-08-23 22:44:37] [INFO   ] Spawning animal farm at 18240,64,12096 with rotation of WEST 
