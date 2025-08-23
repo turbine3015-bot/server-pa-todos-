@@ -11,32 +11,32 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1755905099245
+  lastteleport: 1755982638202
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1755907425265
+  logout: 1755983335672
   login: 1755980591867
 money: '0'
 last-account-name: Zatanna917
 logoutlocation:
   world: 3d3d7510-3aa1-4b52-936b-654cf20de811
   world-name: world
-  x: -64.2312831938292
-  y: 73.0
-  z: 2.4155498446371584
-  yaw: -157.34765625
-  pitch: 16.20006561279297
+  x: -72.45275162119204
+  y: 59.0
+  z: -1.157176431734677
+  yaw: -70.50982666015625
+  pitch: 6.449861526489258
 nickname: §d§lZaty
 lastlocation:
   world: 3d3d7510-3aa1-4b52-936b-654cf20de811
   world-name: world
-  x: -56.06754552012368
-  y: 112.0
-  z: 5.396842638292023
-  yaw: -83.40021514892578
-  pitch: 14.399981498718262
+  x: -30.011211170534445
+  y: 73.875
+  z: -37.61982347863472
+  yaw: -127.70986938476562
+  pitch: 21.114456176757812
 homes:
   casa:
     world: 3d3d7510-3aa1-4b52-936b-654cf20de811

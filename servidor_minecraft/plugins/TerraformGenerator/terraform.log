@@ -2842,3 +2842,20 @@
 [2025-08-23 20:12:05] [INFO   ] Post injection: getChunkSource().getChunkGenerator() is of type NMSChunkGenerator 
 [2025-08-23 20:12:05] [INFO   ]  Injection success! Proceeding with generation. 
 [2025-08-23 20:12:07] [INFO   ]  world loaded. 
+[2025-08-23 20:36:42] [INFO   ] Will spawn stronghold at: CoordPair[x=-778, z=1172] 
+[2025-08-23 20:36:47] [INFO   ] Spawning DeepCavePopulator at -208,-34,1616 
+[2025-08-23 20:36:47] [INFO   ] Spawning MossyCavePopulator at -202,-9,1621 
+[2025-08-23 20:36:51] [INFO   ] Spawning CaveFluidClusterPopulator at -200,-24,1640 
+[2025-08-23 20:37:04] [INFO   ] Spawning DripstoneClusterCavePopulator at -256,-22,1664 
+[2025-08-23 20:37:30] [INFO   ] Spawning LushClusterCavePopulator at -256,-7,1728 
+[2025-08-23 20:37:44] [INFO   ] Spawning CrystallineClusterCavePopulator at -258,-7,1634 
+[2025-08-23 20:49:11] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -225 -4 1331 in a room of size 14x14 
+[2025-08-23 20:49:11] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -209 -4 1367 in a room of size 14x14 
+[2025-08-23 20:49:11] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -251 -4 1382 in a room of size 13x13 
+[2025-08-23 20:49:11] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -146 -4 1395 in a room of size 14x15 
+[2025-08-23 20:49:11] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -213 -4 1403 in a room of size 15x13 
+[2025-08-23 20:49:11] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -193 -4 1339 in a room of size 13x13 
+[2025-08-23 20:49:11] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -237 -4 1398 in a room of size 14x13 
+[2025-08-23 20:49:11] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -164 -4 1354 in a room of size 14x13 
+[2025-08-23 20:55:33] [INFO   ] Spawning FrozenCavePopulator at -32,35,-735 
+[2025-08-23 21:05:17] [INFO   ] Large Cave at -192,6,-1216 has water level > -23 with populator MushroomCavePopulator 
