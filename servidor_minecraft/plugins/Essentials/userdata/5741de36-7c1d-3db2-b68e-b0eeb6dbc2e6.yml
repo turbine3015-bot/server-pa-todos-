@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1755983916418
+  logout: 1755986343022
   login: 1755984002269
 money: '0'
 last-account-name: Daiki1203
@@ -41,8 +41,8 @@ homes:
 logoutlocation:
   world: 3d3d7510-3aa1-4b52-936b-654cf20de811
   world-name: world
-  x: -66.54598405274778
-  y: 59.0
-  z: -0.925000011920929
-  yaw: 176.39999389648438
-  pitch: 5.399996280670166
+  x: -48.88899119905056
+  y: 73.0
+  z: -1.3988182128655458
+  yaw: 178.05078125
+  pitch: 18.299985885620117
