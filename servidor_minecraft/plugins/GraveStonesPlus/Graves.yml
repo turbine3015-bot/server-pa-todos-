@@ -20,8 +20,8 @@ graves:
     -1:
       ==: org.bukkit.inventory.ItemStack
       id: minecraft:air
-      DataVersion: 4440
       schema_version: 1
+      DataVersion: 4440
     1:
       ==: org.bukkit.inventory.ItemStack
       DataVersion: 4440
@@ -31,8 +31,8 @@ graves:
     -2:
       ==: org.bukkit.inventory.ItemStack
       id: minecraft:air
-      DataVersion: 4440
       schema_version: 1
+      DataVersion: 4440
     2:
       ==: org.bukkit.inventory.ItemStack
       DataVersion: 4440
@@ -42,8 +42,8 @@ graves:
     -3:
       ==: org.bukkit.inventory.ItemStack
       id: minecraft:air
-      DataVersion: 4440
       schema_version: 1
+      DataVersion: 4440
     3:
       ==: org.bukkit.inventory.ItemStack
       DataVersion: 4440
@@ -55,8 +55,8 @@ graves:
     -4:
       ==: org.bukkit.inventory.ItemStack
       id: minecraft:air
-      DataVersion: 4440
       schema_version: 1
+      DataVersion: 4440
     4:
       ==: org.bukkit.inventory.ItemStack
       DataVersion: 4440
@@ -66,8 +66,8 @@ graves:
     -5:
       ==: org.bukkit.inventory.ItemStack
       id: minecraft:air
-      DataVersion: 4440
       schema_version: 1
+      DataVersion: 4440
     5:
       ==: org.bukkit.inventory.ItemStack
       DataVersion: 4440
@@ -125,8 +125,8 @@ graves:
     -1:
       ==: org.bukkit.inventory.ItemStack
       id: minecraft:air
-      DataVersion: 4440
       schema_version: 1
+      DataVersion: 4440
     1:
       ==: org.bukkit.inventory.ItemStack
       DataVersion: 4440
@@ -136,23 +136,23 @@ graves:
     -2:
       ==: org.bukkit.inventory.ItemStack
       id: minecraft:air
-      DataVersion: 4440
       schema_version: 1
+      DataVersion: 4440
     -3:
       ==: org.bukkit.inventory.ItemStack
       id: minecraft:air
-      DataVersion: 4440
       schema_version: 1
+      DataVersion: 4440
     -4:
       ==: org.bukkit.inventory.ItemStack
       id: minecraft:air
-      DataVersion: 4440
       schema_version: 1
+      DataVersion: 4440
     -5:
       ==: org.bukkit.inventory.ItemStack
       id: minecraft:air
-      DataVersion: 4440
       schema_version: 1
+      DataVersion: 4440
   UUID: 70d9c4f5-cf1a-349a-b0fc-3ac7280fac5f
   World: 3d3d7510-3aa1-4b52-936b-654cf20de811
   EXP: 0
@@ -178,8 +178,8 @@ graves:
     -1:
       ==: org.bukkit.inventory.ItemStack
       id: minecraft:air
-      DataVersion: 4440
       schema_version: 1
+      DataVersion: 4440
     1:
       ==: org.bukkit.inventory.ItemStack
       DataVersion: 4440
@@ -197,8 +197,8 @@ graves:
     -2:
       ==: org.bukkit.inventory.ItemStack
       id: minecraft:air
-      DataVersion: 4440
       schema_version: 1
+      DataVersion: 4440
     2:
       ==: org.bukkit.inventory.ItemStack
       DataVersion: 4440
@@ -208,8 +208,8 @@ graves:
     -3:
       ==: org.bukkit.inventory.ItemStack
       id: minecraft:air
-      DataVersion: 4440
       schema_version: 1
+      DataVersion: 4440
     3:
       ==: org.bukkit.inventory.ItemStack
       DataVersion: 4440
@@ -219,8 +219,8 @@ graves:
     -4:
       ==: org.bukkit.inventory.ItemStack
       id: minecraft:air
-      DataVersion: 4440
       schema_version: 1
+      DataVersion: 4440
     -5:
       ==: org.bukkit.inventory.ItemStack
       DataVersion: 4440
@@ -556,18 +556,18 @@ graves:
     -1:
       ==: org.bukkit.inventory.ItemStack
       id: minecraft:air
-      DataVersion: 4440
       schema_version: 1
+      DataVersion: 4440
     -2:
       ==: org.bukkit.inventory.ItemStack
       id: minecraft:air
-      DataVersion: 4440
       schema_version: 1
+      DataVersion: 4440
     -3:
       ==: org.bukkit.inventory.ItemStack
       id: minecraft:air
-      DataVersion: 4440
       schema_version: 1
+      DataVersion: 4440
     -4:
       ==: org.bukkit.inventory.ItemStack
       DataVersion: 4440
@@ -579,8 +579,8 @@ graves:
     -5:
       ==: org.bukkit.inventory.ItemStack
       id: minecraft:air
-      DataVersion: 4440
       schema_version: 1
+      DataVersion: 4440
     8:
       ==: org.bukkit.inventory.ItemStack
       DataVersion: 4440
