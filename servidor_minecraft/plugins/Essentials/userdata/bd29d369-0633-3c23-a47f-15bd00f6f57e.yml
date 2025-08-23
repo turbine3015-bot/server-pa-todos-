@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1755981270407
+  lastteleport: 1755990603326
   lastheal: 0
   mute: 0
   jail: 0
@@ -32,11 +32,11 @@ nickname: §c§lSamir
 lastlocation:
   world: 3d3d7510-3aa1-4b52-936b-654cf20de811
   world-name: world
-  x: -6875.291092116698
-  y: 71.0
-  z: 1846.1553748635201
-  yaw: 65.09698486328125
-  pitch: 3.2999942302703857
+  x: 18524.596084890178
+  y: -50.0
+  z: 11370.55061084753
+  yaw: 107.45193481445312
+  pitch: 3.299952983856201
 homes:
   home:
     world: 3d3d7510-3aa1-4b52-936b-654cf20de811
