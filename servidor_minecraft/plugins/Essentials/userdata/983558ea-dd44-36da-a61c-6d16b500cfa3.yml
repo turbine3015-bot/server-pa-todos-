@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1755810806152
+  logout: 1755907390508
   login: 1755895636252
 money: '0'
 last-account-name: CrowSinged
@@ -31,11 +31,11 @@ lastlocation:
 logoutlocation:
   world: 3d3d7510-3aa1-4b52-936b-654cf20de811
   world-name: world
-  x: -52.798569643988166
+  x: -51.362761136484345
   y: 73.0
-  z: -12.848230885987762
-  yaw: -33.90087890625
-  pitch: 19.200016021728516
+  z: -5.297234571888122
+  yaw: 47.55000305175781
+  pitch: 16.349992752075195
 homes:
   aldea:
     world: 3d3d7510-3aa1-4b52-936b-654cf20de811
