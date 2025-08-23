@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1755903758768
+  lastteleport: 1755987858247
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,11 +23,11 @@ last-account-name: CrowSinged
 lastlocation:
   world: 3d3d7510-3aa1-4b52-936b-654cf20de811
   world-name: world
-  x: 2373.060541723802
-  y: 70.9375
-  z: -1261.996479945202
-  yaw: 157.95016479492188
-  pitch: 8.550026893615723
+  x: -36.46153494644814
+  y: 73.0
+  z: -18.199478833223658
+  yaw: 3.151937961578369
+  pitch: 6.299999237060547
 logoutlocation:
   world: 3d3d7510-3aa1-4b52-936b-654cf20de811
   world-name: world
