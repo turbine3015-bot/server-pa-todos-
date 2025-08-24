@@ -2943,3 +2943,4 @@
 [2025-08-23 23:04:10] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 18193 9 11076 in a room of size 14x13 
 [2025-08-23 23:04:10] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 18196 9 11106 in a room of size 14x13 
 [2025-08-23 23:04:10] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at 18275 9 11056 in a room of size 13x7 
+[2025-08-24 00:00:56] [INFO   ] Large Cave at -6336,22,1344 has water level > -23 with populator LargeLushCavePopulator 
