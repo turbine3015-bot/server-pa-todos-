@@ -3142,3 +3142,6 @@
 [2025-08-24 00:43:40] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at 3401 12 4861 in a room of size 15x5 
 [2025-08-24 00:43:40] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at 3412 12 4943 in a room of size 15x5 
 [2025-08-24 00:43:40] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 3356 12 4909 in a room of size 15x14 
+[2025-08-24 00:50:03] [INFO   ] Large Cave at -704,27,-192 has water level > -9 with populator LargeLushCavePopulator 
+[2025-08-24 00:51:21] [INFO   ] Large Cave at -1216,14,-192 has water level > -31 with populator MushroomCavePopulator 
+[2025-08-24 00:52:11] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: -76,-12 
