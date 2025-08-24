@@ -2944,3 +2944,28 @@
 [2025-08-23 23:04:10] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 18196 9 11106 in a room of size 14x13 
 [2025-08-23 23:04:10] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at 18275 9 11056 in a room of size 13x7 
 [2025-08-24 00:00:56] [INFO   ] Large Cave at -6336,22,1344 has water level > -23 with populator LargeLushCavePopulator 
+[2025-08-24 00:21:50] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsSkeletonDungeonPopulator at 846 21 1322 in a room of size 10x10 
+[2025-08-24 00:21:50] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsCasketRoomPopulator at 808 21 1330 in a room of size 7x7 
+[2025-08-24 00:21:50] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsPillarRoomPopulator at 830 21 1369 in a room of size 9x10 
+[2025-08-24 00:21:50] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsPillarRoomPopulator at 817 21 1327 in a room of size 9x7 
+[2025-08-24 00:21:50] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsSkeletonDungeonPopulator at 849 21 1355 in a room of size 7x8 
+[2025-08-24 00:21:50] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsCasketRoomPopulator at 824 21 1352 in a room of size 8x8 
+[2025-08-24 00:21:50] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsPillarRoomPopulator at 843 21 1337 in a room of size 9x9 
+[2025-08-24 00:21:50] [INFO   ] Registered: org.terraform.structure.catacombs.CatacombsCasketRoomPopulator at 833 21 1326 in a room of size 7x9 
+[2025-08-24 00:22:58] [INFO   ] Spawning ancient city at: 832,-15,1856 
+[2025-08-24 00:22:58] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at 804 -15 1801 in a room of size 21x24 
+[2025-08-24 00:22:58] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at 883 -15 1900 in a room of size 21x23 
+[2025-08-24 00:22:58] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at 881 -15 1801 in a room of size 18x19 
+[2025-08-24 00:22:58] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at 781 -15 1855 in a room of size 24x16 
+[2025-08-24 00:22:58] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at 855 -15 1805 in a room of size 20x18 
+[2025-08-24 00:22:58] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at 889 -15 1874 in a room of size 16x24 
+[2025-08-24 00:22:58] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at 805 -15 1854 in a room of size 18x24 
+[2025-08-24 00:22:58] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at 857 -15 1824 in a room of size 21x19 
+[2025-08-24 00:22:58] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityCenterPlatformPopulator at 840 -15 1864 in a room of size 46x46 
+[2025-08-24 00:22:58] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at 774 -15 1894 in a room of size 25x20 
+[2025-08-24 00:22:58] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at 772 -15 1820 in a room of size 26x17 
+[2025-08-24 00:22:58] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at 848 -15 1907 in a room of size 24x17 
+[2025-08-24 00:24:52] [INFO   ] Generating org.terraform.structure.villagehouse.VillageHousePopulator at chunk: 20,116 
+[2025-08-24 00:24:52] [INFO   ] Spawning farmhouse at 320,67,1856 with rotation of WEST 
+[2025-08-24 00:25:17] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 16,124 
+[2025-08-24 00:25:17] [INFO   ] Spawning Underground Dungeon at 267,83,1993 
